@@ -36,15 +36,15 @@ There is **no starter code** for this assignment (only [starter text](starter-co
 
 #### Deliverable
 
-Here are examples of a simple "About" and "Portfolio" page that fulfill the assignment requirements:
+Here are examples of a simple "About" and "Profile" page that fulfill the assignment requirements:
 
 - Joe, the freelance developer's "about page":
 
 ![Joe's About](https://i.imgur.com/glWa47g.png)
 
-- Joe, the freelance developer's "portfolio page":
+- Joe, the freelance developer's "profile page":
 
-![Joe's Portfolio](https://i.imgur.com/zhBMmuJ.png)
+![Joe's Profile](https://i.imgur.com/zhBMmuJ.png)
 
 ## Additional Resources
 
